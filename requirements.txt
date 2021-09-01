@@ -1,0 +1,6 @@
+# Function dependencies, for example:
+# package>=version
+recipe-scrapers
+google-cloud-firestore
+google-cloud-storage
+pillow
